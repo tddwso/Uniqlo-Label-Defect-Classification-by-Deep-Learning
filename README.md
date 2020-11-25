@@ -14,7 +14,7 @@ TensorFlow 2.3.1
 ## 訓練和測試結果
 最佳模型訓練準確度100% 
 
-
+![image](picture or gif url)
 
 
 
