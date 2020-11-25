@@ -18,7 +18,7 @@ TensorFlow 2.3.1
 
 ROC曲線合併圖
 
-
+![image](https://github.com/tddwso/label-identity/blob/main/ROC.PNG)
 
 
 
