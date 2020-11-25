@@ -13,14 +13,16 @@ Python 3.8
 TensorFlow 2.3.1 
 ## 訓練和測試結果
 最佳模型訓練準確度100% 
-
 ![image](https://github.com/tddwso/label-identity/blob/main/ACC.PNG)
 
-ROC曲線合併圖
+ROC曲線 (Receiver operating characteristic curve) & AUC (Area Under Curve)
+
+ROC曲線會以對角線為基準，曲線下的面積(AUC)來判別ROC曲線的鑑別力，AUC數值的範圍從0到1，數值愈大，代表模型的鑑別力越好。
 
 ![image](https://github.com/tddwso/label-identity/blob/main/ROC.PNG)
 
-
+實際測試結果
+![image](https://github.com/tddwso/label-identity/blob/main/test.PNG)
 
 
 
