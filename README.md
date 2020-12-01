@@ -2,7 +2,7 @@
 ## 背景介紹:
 此次為分辨Uniqlo產品標籤屬於OK或NG(分為走紗及油汙)品。
 
-![image](https://github.com/tddwso/label-identity/blob/main/ROC.PNG)
+![image](https://github.com/tddwso/Uniqlo-Label-Defect-Classification-by-Deep-Learning/blob/main/%E5%88%86%E9%A1%9E%E7%85%A7.PNG)
 
 ## 預計完成目標:
 以卷積神經網絡(Convolutional Neural Network)學習分辨OK及NG品。
