@@ -1,4 +1,4 @@
-# label-identity
+# Uniqlo Label Defect Classification by Deep Learning
 ## 背景介紹:
 此次為分辨Uniqlo產品標籤是否為OK或NG(分為走紗及油汙)品。
 ## 預計完成目標:
