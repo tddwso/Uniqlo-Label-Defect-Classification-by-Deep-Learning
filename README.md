@@ -37,7 +37,7 @@ ROC曲線會以對角線為基準，曲線下的面積(AUC)來判別ROC曲線的
 ![image](https://github.com/tddwso/Uniqlo-Label-Defect-Classification-by-Deep-Learning/blob/main/streamlit.png)
 
 
-![image](https://github.com/tddwso/label-identity/blob/main/test1.PNG)
+![image](https://github.com/tddwso/Uniqlo-Label-Defect-Classification-by-Deep-Learning/blob/main/Uniqlo%20label.mp4)
 
 
 
