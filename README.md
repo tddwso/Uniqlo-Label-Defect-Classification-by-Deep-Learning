@@ -29,18 +29,12 @@ ROC曲線會以對角線為基準，曲線下的面積(AUC)來判別ROC曲線的
 
 ![image](https://github.com/tddwso/label-identity/blob/main/test1.PNG)
 
-## 使用Streamlit App
+## 使用Streamlit App展示成果
 
 ![image](https://github.com/tddwso/Uniqlo-Label-Defect-Classification-by-Deep-Learning/blob/main/Stream%20Logo.png)
 
+Streamlit 是一個開源Python函式庫，可以快速製作Data App。
 
 ![image](https://github.com/tddwso/Uniqlo-Label-Defect-Classification-by-Deep-Learning/blob/main/streamlit.png)
-
-
-![video](https://github.com/tddwso/Uniqlo-Label-Defect-Classification-by-Deep-Learning/blob/main/Uniqlo%20label.mp4)
-
-
-
-
 
 
