@@ -35,6 +35,5 @@ ROC曲線會以對角線為基準，曲線下的面積(AUC)來判別ROC曲線的
 
 Streamlit 是一個開源Python函式庫，可以快速製作Data App。
 
-![image](https://github.com/tddwso/Uniqlo-Label-Defect-Classification-by-Deep-Learning/blob/main/streamlit.png)
-
-
+實作影片
+[![IMAGE ALT TEXT HERE](https://github.com/tddwso/Uniqlo-Label-Defect-Classification-by-Deep-Learning/blob/main/streamlit.png)](https://youtu.be/MMr6gDYNouw)
