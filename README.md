@@ -1,6 +1,7 @@
 # Uniqlo Label Defect Classification by Deep Learning
 ## 背景介紹:
-此次為分辨Uniqlo產品標籤屬於OK或NG(分為走紗及油汙)品。
+
+建構以深度學習分辨Uniqlo產品標籤屬於OK或NG(分為走紗及油汙)品的模型，學習影像分為OK(正常)、NG(走紗)、NG(油汙)三種。
 
 ![image](https://github.com/tddwso/Uniqlo-Label-Defect-Classification-by-Deep-Learning/blob/main/%E5%88%86%E9%A1%9E%E7%85%A7.PNG)
 
@@ -35,5 +36,12 @@ ROC曲線會以對角線為基準，曲線下的面積(AUC)來判別ROC曲線的
 
 Streamlit 是一個開源Python函式庫，可以快速製作Data App。
 
-實作影片
+APP操作方法:
+
+1.開啟資料夾選取想要測試的影像
+
+2.APP執行影像辨識
+
+3.顯示辨識結果
 [![IMAGE ALT TEXT HERE](https://github.com/tddwso/Uniqlo-Label-Defect-Classification-by-Deep-Learning/blob/main/streamlit.png)](https://youtu.be/Ekr0T2tIpII)
+
